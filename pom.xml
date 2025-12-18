@@ -266,7 +266,7 @@
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://<NEXUS_HOST>:8081/repository/maven-snapshots/</url>
+            <url>http://18.209.4.160:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <!-- ============================================================ -->
